@@ -1,10 +1,10 @@
 from twilio.rest import Client
 
-account_sid = 'AC51ea8c82a245c46c095d437b6ac34a68'
-auth_token = 'a5fe54676723db37abbdcd19cc45720e'
+account_sid = ''
+auth_token = ''
 
-sender ='+19143807864'
-receiver = '+919840241351'
+sender =''
+receiver = ''
 
 client = Client(account_sid, auth_token)
 
